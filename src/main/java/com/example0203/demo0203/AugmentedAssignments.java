@@ -1,4 +1,4 @@
-package com.example0203;
+package com.example0203.demo0203;
 
 public class AugmentedAssignments {
     public static void main(String[] args) {

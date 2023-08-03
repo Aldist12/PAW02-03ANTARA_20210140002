@@ -1,4 +1,4 @@
-package com.example0203;
+package com.example0203.demo0203;
 import java.util.Arrays;
 
 public class OperasidiArray {
@@ -91,4 +91,3 @@ public class OperasidiArray {
         }
     }
 }
-

@@ -1,4 +1,4 @@
-package com.example0203;
+package com.example0203.demo0203;
 
 public class TipeDataString {
     public static void main(String[] args) {
@@ -66,4 +66,3 @@ public class TipeDataString {
         System.out.println("Trimmed String: " + trimmedString);
     }
 }
-
