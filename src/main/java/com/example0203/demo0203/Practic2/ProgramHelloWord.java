@@ -11,7 +11,7 @@ public class ProgramHelloWord {
         long iniLong2 = 1000000L; // Perhatikan huruf 'L' sebagai penanda literal long.
 
         byte iniByte2 = 12;
-        short iniShort_Konversi = iniByte; // Konversi byte ke short.
+        short iniShort_Konversi = iniByte2; // Konversi byte ke short.
 
         short iniShort2 = 32_767;
         int iniInt2 = 2_147_483_647;
@@ -75,8 +75,7 @@ public class ProgramHelloWord {
         System.out.println(address1);
 
         // Array
-        String[] arrayString;
-        arrayString = new String[3];
+        String[] arrayString = new String[3];
 
         arrayString[0] = "Aldi";
         arrayString[1] = "Septiyanto"; // Perbaiki indeks yang ditetapkan.
