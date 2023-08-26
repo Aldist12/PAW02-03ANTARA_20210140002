@@ -44,6 +44,6 @@ public class TipeDataArray {
         int[][] matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
 
         // Mengakses elemen array multidimensi
-        int value = matrix[1][2]; // Mendapatkan elemen kedua dari baris ketiga (nilai: 6)
+        int value = matrix[1][2]; // Mendapatkan elemen ketiga dari baris kedua (nilai: 6)
     }
 }
